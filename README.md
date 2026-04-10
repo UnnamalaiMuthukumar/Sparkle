@@ -42,6 +42,13 @@ pip install streamlit pandas matplotlib seaborn plotly numpy
 streamlit run sparkle.py
 ```
 
+#output
+
+<img width="1915" height="752" alt="Screenshot 2026-04-10 132938" src="https://github.com/user-attachments/assets/c3dbf155-fc2d-49cc-a579-3790d7db781c" />
+
+
+
+
 ## What I Learned
 - Building interactive web apps without HTML/CSS using Streamlit
 - Handling real-world data preprocessing (missing values, type conversion, normalization)
